@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ayushi 👋
 
-<!--
-**incoderAyushi/incoderAyushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+C • Java • C++ • DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Exploring
+Web Development • Full-Stack Development • AI
+
+🚀 Goals
+Build projects • Participate in hackathons •
+Prepare for internships • Become a Software Engineer
+
+📚 Currently Working On
+Programming fundamentals and my first project
+Problem solving
+
+✨ One step at a time, one project at a time. 
